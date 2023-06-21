@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+    cursor: url(cat.cursor.svg),auto;
+
+  }
+
+.btn{
+    cursor: url(gato-head.svg), auto;
+    padding: 10px;
+  }
